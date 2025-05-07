@@ -1,4 +1,4 @@
-# skc1
+# my_mini_project
 In This Repo, I have created a Simple Parking Management System using C language.
 Code Explaination:
 1. The code is divided into 3 parts: parking allotment, vehicle Exit, and Amount Received
